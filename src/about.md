@@ -17,6 +17,4 @@ tags:
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
-
-Telegram：[AlanDecode](https://t.me/alandecode)
+Email: 603329354#qq.com (replace # with @)
