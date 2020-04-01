@@ -24,7 +24,7 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "王荣胜"
 email = "603329354@qq.com"
-author_homepage = "https://www.imalan.cn"
+author_homepage = "https://sqdxwz.com"
 description = "只坚持一种正义。我的正义。"
 key_words = ['Maverick', '王荣胜', 'Galileo', 'blog']
 language = 'zh-CN'
@@ -61,17 +61,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/WangRongsheng",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/",
         "icon": "gi gi-weibo"
     }
 ]
