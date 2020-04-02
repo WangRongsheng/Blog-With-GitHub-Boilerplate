@@ -9,9 +9,9 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Kepler",
+    "name": "Galileo",
     "type": "local",
-    "path": "../Kepler"
+    "path": "../Galileo"
 }
 enable_jsdelivr = {
     "enabled": False,
@@ -37,7 +37,7 @@ external_links = [
     {
         "name": "王荣胜",
         "url": "https://sqdxwz.top/",
-        "brief": "王荣胜的主页。"
+        "brief": "还是王荣胜鸭~"
     }
 ]
 nav = [
